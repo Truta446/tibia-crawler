@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "==4.0.1"
+snapshottest = "==0.5.0"
+pylint = "*"
+rope = "*"
+
+[packages]
+beautifulsoup4 = "==4.6.3"
+requests = "==2.20.1"
+attrs = "==19.1.0"
+
+[requires]
+python_version = "3.7"
