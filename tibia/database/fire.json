@@ -1,0 +1,31 @@
+{
+    "name":"Fire",
+    "title":"None (2 titles unlocked)",
+    "sex":"male",
+    "vocation":"Master Sorcerer",
+    "level":"83",
+    "achivement":"15",
+    "world":"Solidera",
+    "residence":"Venore",
+    "guild_membership":"Red Guard of the Venore Syndicate",
+    "last_login":"Jan 13 2020, 23:43:23 CET",
+    "account_status":"Premium Account",
+    "deaths":[
+       {
+          "timestamp":"Jan 08 2020, 08:40:03 CET",
+          "description":"Killed at Level 83 by Live One and Lord Yato."
+       },
+       {
+          "timestamp":"Jan 06 2020, 05:20:23 CET",
+          "description":"Killed at Level 83 by Elsuycida Wgo, Alex Hel, Duqke and Varodhin."
+       },
+       {
+          "timestamp":"Dec 29 2019, 21:47:39 CET",
+          "description":"Crushed at Level 83 by Oswaldo Assassin, Cristianzs, Podrodoto, Duqke, Chacalitho, Mjog, Romanzs, Nigthwish, Lucasha, Zeedz and Rivenassh."
+       },
+       {
+          "timestamp":"Dec 29 2019, 20:19:46 CET",
+          "description":"Crushed at Level 83 by Pecas The Last, King Puchi, Asmita Leekh, Montee Carlo, Duulsuuraa, Argos Nigromante, Maszerati Sicko Mode, Miss Cait, Mini Kathia, Fair Hazard and Valluno Dash."
+       }
+    ]
+ }
