@@ -131,3 +131,4 @@ dmypy.json
 #More ignore files
 *.lock
 .vscode
+snapshots/
